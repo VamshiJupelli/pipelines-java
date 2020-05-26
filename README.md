@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jupelli-vamshikrishna0492/jupelli-vamshikrishna/_apis/build/status/VamshiJupelli.pipelines-java?branchName=master)](https://dev.azure.com/jupelli-vamshikrishna0492/jupelli-vamshikrishna/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
